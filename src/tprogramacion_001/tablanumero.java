@@ -11,7 +11,7 @@ public class tablanumero {
 		int a, resultado;
 		a = 7;
 	
-		System.out.println("Ingrese el numero");
+		System.out.println("Ingrese el el numero");
 		a = lector.nextInt();
 		System.out.println("Tabla del:" + a);
 
