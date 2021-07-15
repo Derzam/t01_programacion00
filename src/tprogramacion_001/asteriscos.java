@@ -7,7 +7,7 @@ public class asteriscos {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Ingrese el numero de filas");
+		System.out.println("Ingrese el numero de de filas");
 		 
 		
 		
