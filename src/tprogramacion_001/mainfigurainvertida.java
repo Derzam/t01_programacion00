@@ -7,7 +7,7 @@ public class mainfigurainvertida {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Ingresa el numero de lineas para el triangulo");
+		System.out.println("Ingresa la cantidad de de lineas para el triangulo");
 		int i;
 		int j;
 		
