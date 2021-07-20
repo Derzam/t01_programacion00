@@ -14,7 +14,7 @@ public class divisiones {
 		
 		Scanner lector = new Scanner(System.in);
 		
-		System.out.println("Ingrese el primer numero");
+		System.out.println("Ingrese el primer n numero");
 		 
 		numero1 = lector.nextFloat();
 		
