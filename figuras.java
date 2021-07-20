@@ -5,7 +5,7 @@ public class figuras {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("Imprimir numeros nn");
+		System.out.println("Imprimir numeros nddn");
 		
 
 	}
